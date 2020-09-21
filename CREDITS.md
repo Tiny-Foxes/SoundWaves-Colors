@@ -1,3 +1,3 @@
-Outfox Discord by Moru Zerinho6
+### [Discord](/Discord/Modules) by Moru Zerinho6
 
-Outfox Ice by PCBoyGames
+### [Ice](/Ice/Modules) by PCBoyGames
