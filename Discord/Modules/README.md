@@ -2,7 +2,7 @@
 
 ![](https://media.discordapp.net/attachments/499671331021914132/757430421805072414/2020-09-20_232833.png)
 
-Discord like color scheme for SoundWaves.
+Discord-like color scheme for SoundWaves.
 
 ### Options
 
