@@ -3,3 +3,5 @@
 ### [Ice](/Ice/Modules) by PCBoyGames
 
 ### [Dark Mode](/Dark%20Mode/Modules) by Infinite Phantasm
+
+### [Wave](/Wave/Modules) by AppleArcade120
