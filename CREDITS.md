@@ -4,6 +4,6 @@
 
 ### [Dark Mode](/Dark%20Mode/Modules) by Infinite Phantasm
 
-### [Wave](/Wave/Modules) by AppleArcade120
+### [Wave](/Wave/Modules) and [BISTRO](/BISTRO/Modules) by AppleArcade120
 
 ### [Alien Green](/Alien%20Green/Modules) by MoNeko
