@@ -1,5 +1,4 @@
-        }, -- end Wave
-		{ -- BISTRO
+        { -- BISTRO
             ["titleBGA"] = color("#FFFFFF"),
             ["titleBGB"] = color("#0488ff"),
             ["titleBGPattern"] = color("#FFDC00"),
