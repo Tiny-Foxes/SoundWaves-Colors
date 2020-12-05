@@ -11,5 +11,3 @@
 ### [Invert Standard](/Invert%20Standard/Modules) and [Rainbow FUN](/Rainbow%20FUN/Modules) by Rosho128
 
 ### [Baby Pink](/Baby%20Pink/Modules) by Snil4
-
-### [Invert Standard](/Invert%20Standard/Modules) and [Rainbow FUN](/Rainbow%20FUN/Modules) by Rosho128
