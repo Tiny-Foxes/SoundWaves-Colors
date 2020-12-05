@@ -1,4 +1,3 @@
-local Items = {
 		{  -- Invert Standard
 			["titleBGA"] = color("#FCEDA2"),
 			["titleBGB"] = color("#FFBA71"),
@@ -42,4 +41,3 @@ local Items = {
 			["menuTextLoseFocus"] = color("#380600"),
 			["optionExplanationBG"] = color("#FFFFFF50")
 		}, -- End of Invert Standard
-}
