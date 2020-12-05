@@ -1,8 +1,8 @@
-#Baby Pink
+# Baby Pink
 
 A new theme color by snil4 that is basically pink and more bright colors.
 
-##Screenshots
+## Screenshots
 
 ![](https://i.imgur.com/8rr6Rxl.jpg)
 
