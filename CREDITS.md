@@ -11,3 +11,5 @@
 ### [Invert Standard](/Invert%20Standard/Modules), [Rainbow FUN](/Rainbow%20FUN/Modules), [Sunny Day](/Sunny%20Day/Modules), [The Blood](/The%20Blood/Modules), and [Cool Blues](/Cool%20Blues/Modules) by Rosho128
 
 ### [Baby Pink](/Baby%20Pink/Modules) by Snil4
+
+### [opsm1](/opsm1/Modules) by jack5github
