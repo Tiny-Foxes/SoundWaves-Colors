@@ -1,4 +1,4 @@
-		{ -- (11) opsm1
+		{ -- Y2K
 			["titleBGA"] = color("#CABBF7"),
 			["titleBGB"] = color("#6441DD"),
 			["titleBGPattern"] = color("#FFFFFF"),
@@ -40,4 +40,4 @@
 			["menuTextGainFocus"] = color("#FFFFFF"),
 			["menuTextLoseFocus"] = color("#DFD7FA"),
 			["optionExplanationBG"] = color("#6441DD")
-		}, -- end opsm1
+		}, -- end Y2K
