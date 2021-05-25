@@ -24,7 +24,7 @@
 			["wheelHighlightA"] = color("#DAF911"),
 			["wheelHighlightB"] = color("#A4F911"),
 			["wheelSongItem"] = color("#FF7F3B"),
-			["wheelSectionItemA"] = color("#FF2A00"),	
+			["wheelSectionItemA"] = color("#FF2A00"),    
 			["wheelSectionItemB"] = color("#FFA100"),
 			["SSMHelpPopup"] = color("#545454"),
 			["gameplayHeader"] = color("#387D00"),
@@ -39,5 +39,13 @@
 			["menuBlockHighlightB"] = color("#CF0072"),
 			["menuTextGainFocus"] = color("#00DA54"),
 			["menuTextLoseFocus"] = color("#FFFFFF"),
-			["optionExplanationBG"] = color("#FF000050")
+			["optionExplanationBG"] = color("#FF000050"),
+			["difficultyBeginner"] = color("#0EA7FF"),
+			["difficultyEasy"] = color("#00F4BD"),
+			["difficultyMedium"] = color("#FF8100"),
+			["difficultyHard"] = color("#F70825"),
+			["difficultyChallenge"] = color("#A907FF"),
+			["difficultyEdit"] = color("#9199D4"),
+			["difficultyCouple"] = color("#ed0972"),
+			["difficultyRoutine"] = color("#ff9a00")
 		}, -- End of Rainbow FUN

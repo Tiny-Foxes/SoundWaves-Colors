@@ -24,8 +24,8 @@
 			["wheelHighlightA"] = color("#FFAE00"),
 			["wheelHighlightB"] = color("#FFBF01"),
 			["wheelSongItem"] = color("#F2BA00"),
-			["wheelSectionItemA"] = color("#FFC500"),			
-			["wheelSectionItemB"] = color("#FFDD00"),	
+			["wheelSectionItemA"] = color("#FFC500"),            
+			["wheelSectionItemB"] = color("#FFDD00"),    
 			["SSMHelpPopup"] = color("#FF8400"),
 			["gameplayHeader"] = color("#995000"),
 			["gameplayTitle"] = color("#FF7800"),
@@ -39,5 +39,13 @@
 			["menuBlockHighlightB"] = color("#FFDE00"),
 			["menuTextGainFocus"] = color("#FFFF00"),
 			["menuTextLoseFocus"] = color("#000000"),
-			["optionExplanationBG"] = color("#00000050")
+			["optionExplanationBG"] = color("#00000050"),
+			["difficultyBeginner"] = color("#0EA7FF"),
+			["difficultyEasy"] = color("#00F4BD"),
+			["difficultyMedium"] = color("#FF8100"),
+			["difficultyHard"] = color("#F70825"),
+			["difficultyChallenge"] = color("#A907FF"),
+			["difficultyEdit"] = color("#9199D4"),
+			["difficultyCouple"] = color("#ed0972"),
+			["difficultyRoutine"] = color("#ff9a00")
 		}, -- End of Sunny Day

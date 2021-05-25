@@ -24,8 +24,8 @@
 			["wheelHighlightA"] = color("#960000"),
 			["wheelHighlightB"] = color("#B00000"),
 			["wheelSongItem"] = color("#100000"),
-			["wheelSectionItemA"] = color("#9C0000"),			
-			["wheelSectionItemB"] = color("#A60000"),	
+			["wheelSectionItemA"] = color("#9C0000"),            
+			["wheelSectionItemB"] = color("#A60000"),    
 			["SSMHelpPopup"] = color("#000000"),
 			["gameplayHeader"] = color("#360000"),
 			["gameplayTitle"] = color("#FF3B3B"),
@@ -39,5 +39,13 @@
 			["menuBlockHighlightB"] = color("#AD0000"),
 			["menuTextGainFocus"] = color("#FFFFFF"),
 			["menuTextLoseFocus"] = color("#FF0000"),
-			["optionExplanationBG"] = color("#00000050")
+			["optionExplanationBG"] = color("#00000050"),
+			["difficultyBeginner"] = color("#0EA7FF"),
+			["difficultyEasy"] = color("#00F4BD"),
+			["difficultyMedium"] = color("#FF8100"),
+			["difficultyHard"] = color("#F70825"),
+			["difficultyChallenge"] = color("#A907FF"),
+			["difficultyEdit"] = color("#9199D4"),
+			["difficultyCouple"] = color("#ed0972"),
+			["difficultyRoutine"] = color("#ff9a00")
 		}, -- End of The Blood

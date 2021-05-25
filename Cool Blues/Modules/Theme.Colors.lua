@@ -24,8 +24,8 @@
 			["wheelHighlightA"] = color("#0033FF"),
 			["wheelHighlightB"] = color("#0066FF"),
 			["wheelSongItem"] = color("#0000CC"),
-			["wheelSectionItemA"] = color("#0000CC"),			
-			["wheelSectionItemB"] = color("#000099"),	
+			["wheelSectionItemA"] = color("#0000CC"),            
+			["wheelSectionItemB"] = color("#000099"),    
 			["SSMHelpPopup"] = color("#000066"),
 			["gameplayHeader"] = color("#000033"),
 			["gameplayTitle"] = color("#000099"),
@@ -39,5 +39,13 @@
 			["menuBlockHighlightB"] = color("#000099"),
 			["menuTextGainFocus"] = color("#FFFFFF"),
 			["menuTextLoseFocus"] = color("#CCCCFF"),
-			["optionExplanationBG"] = color("#00000050")
+			["optionExplanationBG"] = color("#00000050"),
+			["difficultyBeginner"] = color("#0EA7FF"),
+			["difficultyEasy"] = color("#00F4BD"),
+			["difficultyMedium"] = color("#FF8100"),
+			["difficultyHard"] = color("#F70825"),
+			["difficultyChallenge"] = color("#A907FF"),
+			["difficultyEdit"] = color("#9199D4"),
+			["difficultyCouple"] = color("#ed0972"),
+			["difficultyRoutine"] = color("#ff9a00")
 		}, -- End of Cool Blues
