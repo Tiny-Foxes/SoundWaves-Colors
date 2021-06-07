@@ -1,4 +1,4 @@
-		{  -- Invert Standard
+		{  -- (12) Invert Standard
 			["titleBGA"] = color("#FCEDA2"),
 			["titleBGB"] = color("#FFBA71"),
 			["titleBGPattern"] = color("#7A4800"),
@@ -24,8 +24,8 @@
 			["wheelHighlightA"] = color("#006FB8"),
 			["wheelHighlightB"] = color("#003DB8"),
 			["wheelSongItem"] = color("#FFEDD7"),
-			["wheelSectionItemA"] = color("#E9DB71"),
-			["wheelSectionItemB"] = color("#FBAA45"),
+			["wheelSectionItemA"] = color("#E9DB71"),            
+			["wheelSectionItemB"] = color("#FBAA45"),    
 			["SSMHelpPopup"] = color("#EDDAAC"),
 			["gameplayHeader"] = color("#F1E5c5"),
 			["gameplayTitle"] = color("#f6C78A"),
@@ -40,12 +40,12 @@
 			["menuTextGainFocus"] = color("#463202"),
 			["menuTextLoseFocus"] = color("#380600"),
 			["optionExplanationBG"] = color("#FFFFFF50"),
-			["difficultyBeginner"] = color("#0EA7FF"),
-			["difficultyEasy"] = color("#00F4BD"),
-			["difficultyMedium"] = color("#FF8100"),
-			["difficultyHard"] = color("#F70825"),
-			["difficultyChallenge"] = color("#A907FF"),
-			["difficultyEdit"] = color("#9199D4"),
-			["difficultyCouple"] = color("#ed0972"),
-			["difficultyRoutine"] = color("#ff9a00")
+			["difficultyBeginner"] = color("#F15800"),
+			["difficultyEasy"] = color("#FF0B42"),
+			["difficultyMedium"] = color("#007EFF"),
+			["difficultyHard"] = color("#08F7DA"),
+			["difficultyChallenge"] = color("#E6F800"),
+			["difficultyEdit"] = color("#6E662B"),
+			["difficultyCouple"] = color("#12F68D"),
+			["difficultyRoutine"] = color("#0065FF")
 		}, -- End of Invert Standard

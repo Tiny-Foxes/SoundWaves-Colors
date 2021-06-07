@@ -5,10 +5,10 @@ This is the Invert Standard Scheme for StepMania OutFox by Rosho128. It is hard 
 ## Select Mode
 ![](https://i.imgur.com/CfsaVVC.jpg)
 ## Select Music
-![](https://i.imgur.com/lzhTr7u.jpg)
+![](https://i.imgur.com/j4HPraU.jpg)
 ## Gameplay
-![](https://i.imgur.com/ypYqnyt.jpg)
+![](https://i.imgur.com/EtpYXj7.jpg)
 ## Results
-![](https://i.imgur.com/bJN6UCQ.jpg)
+![](https://i.imgur.com/aw0t4j7.jpg)
 ## Option
 ![](https://i.imgur.com/ny43plZ.jpg)
