@@ -1,4 +1,4 @@
-### [Discord](/Discord/Modules) by Moru Zerinho6
+### [Discord](/Discord/Modules) and [Golden Dawn](Golden%20Dawn/Modules) by Moru Zerinho6
 
 ### [Ice](/Ice/Modules) by PCBoyGames
 
